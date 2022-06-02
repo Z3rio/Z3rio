@@ -54,8 +54,8 @@
 ---
 
 ## :zap: GitHub Stats
-<img align="left" alt="Zerio's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Z3rio&show_icons=true&hide_border=false&icon_color=FFE400&theme=tokyonight" />
-<img align="left" alt="Zerio's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=Z3rio&show_icons=true&hide_border=false&icon_color=FFE400&theme=tokyonight" />
+<img align="left" alt="Zerio's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Z3rio&show_icons=true&hide_border=false&icon_color=FFE400&theme=tokyonight&border_color=black" />
+<img align="left" alt="Zerio's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=Z3rio&show_icons=true&hide_border=false&icon_color=FFE400&theme=tokyonight&border_color=black" />
 
 [website]: https://zerio-scripts.com
 [store]: https://store.zerio-scripts.com
