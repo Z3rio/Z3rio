@@ -42,11 +42,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Zerio Bobcat Security Heist | Showcase | Free](https://www.youtube.com/watch?v=P0h3W8WqN2M)
 - [Zerio Proximity Prompts Showcase](https://www.youtube.com/watch?v=S2k_cC64QG8)
 - [Zerio Crafting Showcase](https://www.youtube.com/watch?v=6Wxj8g2F98s)
 - [Zerio Bossmenu Showcase](https://www.youtube.com/watch?v=h4vvz2NTLFI)
 - [Zerio Multi Jobs Showcase](https://www.youtube.com/watch?v=Z6aVf3uD_T0)
-- [Zerio Cardealer Showcase](https://www.youtube.com/watch?v=hm03a6FC_Rw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/c/Zerio)
