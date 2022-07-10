@@ -14,9 +14,7 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://store.zerio-scripts.com)
-&nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/c/Zerio#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://store.zerio-scripts.com)
 [![website](./img/youtube-dark.svg)](https://youtube.com/c/Zerio#gh-dark-mode-only)
 
 ### Languages and Tools:
