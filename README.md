@@ -62,7 +62,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/daweedkob/count.svg" />
+  <img src="https://profile-counter.glitch.me/Z3rio/count.svg" />
 </p>
 
 <img align="left" alt="Zerio's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=Z3rio&show_icons=true&hide_border=false&icon_color=FFE400&theme=tokyonight&border_color=black" />
