@@ -7,12 +7,12 @@
 [![Website](https://img.shields.io/website?label=zerio.se&style=for-the-badge&url=https%3A%2F%2Fwww.zerio.se)](https://www.zerio.se)
 [![Store](https://img.shields.io/website?label=store.zerio-scripts.com&style=for-the-badge&url=https%3A%2F%2Fstore.zerio-scripts.com)](https://store.zerio-scripts.com)
 
-## I'm a Teenager with alot of freetime!
+## I'm a Teenager with a lot of free time!
 
 - 🔭 Check out my free releases!
-- 🤔 I’m currently learning more advanced Vue.JS and Figma
+- 🤔 I'm currently trying to contribute to some fun open-sourced projects.
 - 🧑‍🤝‍🧑 Looking for new and fun projects
-- ✈️ Fun fact: I fly glider planes and do bouldering / climbing
+- ✈️ Fun fact: I fly glider planes and do bouldering/climbing
 
 ### Connect with me:
 
