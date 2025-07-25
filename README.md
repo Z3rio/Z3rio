@@ -42,11 +42,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Zerio Boss Menu v2.0 - The gold standard of FiveM Bossmenus](https://www.youtube.com/watch?v=kC3HVblUJRk)
 - [Zerio Parking Enforcement Showcase Video](https://www.youtube.com/watch?v=akPGQvEWf2A)
 - [Zerio Radio V2 - Showcase Video](https://www.youtube.com/watch?v=14qhIrFenRQ)
 - [Zerio Invoices Showcase](https://www.youtube.com/watch?v=zcOpWOCig-8)
 - [Zerio-Dispatch Showcase](https://www.youtube.com/watch?v=tYMeX9opOeE)
-- [Create your own FiveM Resource in just a couple of minutes - 2022 - Resource CLI](https://www.youtube.com/watch?v=9TBuQu9VqF4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/c/Zerio)
