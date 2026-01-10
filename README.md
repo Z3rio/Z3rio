@@ -1,4 +1,4 @@
-# Hi there, I'm Neo, aka [Zerio][youtube] 👋 
+# Hi there, I'm Neo, aka "Zerio" 👋 
 
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCPXxRNLLgvNpjvGHHMMYxmQ?logo=youtube&logoColor=red&style=for-the-badge)](https://www.youtube.com/@Zerio) <!-- [![Website](https://img.shields.io/website?label=zerio-scripts.com&url=https%3A%2F%2Fzerio-scripts.com&style=for-the-badge)](https://zerio-scripts.com) -->
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/zerioooo)
