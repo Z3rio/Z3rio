@@ -11,7 +11,7 @@
 - 🧑‍🤝‍🧑 Always looking for new and fun projects, just hit me up
 - ✈️ Fun fact: I fly glider planes and do bouldering/climbing
 
----
+<!-- ---
 
 ## :zap: GitHub Stats
 
@@ -23,3 +23,4 @@
 [store]: https://store.zerio-scripts.com
 [youtube]: https://youtube.com/Zerio
 [twitch]: https://twitch.tv/zerioooo
+-->
